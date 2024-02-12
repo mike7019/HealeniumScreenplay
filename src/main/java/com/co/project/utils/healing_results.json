@@ -1,0 +1,104 @@
+{
+  "nodePath": [
+    [
+      {
+        "tag": "html",
+        "index": 0,
+        "innerText": " StartSharp\nLogin to your account\n*\nUsername\n*\nPassword\nForgot password?\nSign In\nOR\nSign in with Google\nSign in with GitHub\nSign in with Microsoft\nDon't have account yet? Sign up.\n demo user: admin, password: serenity",
+        "id": "",
+        "classes": "theme-azure-light pro no-navigation",
+        "other": {
+          "lang": "en-US"
+        }
+      },
+      {
+        "tag": "body",
+        "index": 1,
+        "innerText": " StartSharp\nLogin to your account\n*\nUsername\n*\nPassword\nForgot password?\nSign In\nOR\nSign in with Google\nSign in with GitHub\nSign in with Microsoft\nDon't have account yet? Sign up.\n demo user: admin, password: serenity",
+        "id": "s-LoginPage",
+        "classes": "no-navigation",
+        "other": {}
+      },
+      {
+        "tag": "div",
+        "index": 0,
+        "innerText": " StartSharp\nLogin to your account\n*\nUsername\n*\nPassword\nForgot password?\nSign In\nOR\nSign in with Google\nSign in with GitHub\nSign in with Microsoft\nDon't have account yet? Sign up.\n demo user: admin, password: serenity",
+        "id": "",
+        "classes": "justify-content-center s-full-page",
+        "other": {}
+      },
+      {
+        "tag": "div",
+        "index": 0,
+        "innerText": " StartSharp\nLogin to your account\n*\nUsername\n*\nPassword\nForgot password?\nSign In\nOR\nSign in with Google\nSign in with GitHub\nSign in with Microsoft\nDon't have account yet? Sign up.",
+        "id": "LoginPanel",
+        "classes": "s-container-tight s-vertical-form s-LoginPanel",
+        "other": {}
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "innerText": "Login to your account\n*\nUsername\n*\nPassword\nForgot password?\nSign In\nOR\nSign in with Google\nSign in with GitHub\nSign in with Microsoft",
+        "id": "",
+        "classes": "s-Panel p-4",
+        "other": {}
+      },
+      {
+        "tag": "form",
+        "index": 1,
+        "innerText": "*\nUsername\n*\nPassword\nForgot password?\nSign In",
+        "id": "LoginPanel0_Form",
+        "classes": "",
+        "other": {
+          "novalidate": "novalidate",
+          "action": ""
+        }
+      },
+      {
+        "tag": "div",
+        "index": 0,
+        "innerText": "*\nUsername\n*\nPassword",
+        "id": "LoginPanel0_PropertyGrid",
+        "classes": "s-PropertyGrid s-Serenity-PropertyGrid",
+        "other": {}
+      },
+      {
+        "tag": "div",
+        "index": 0,
+        "innerText": "*\nUsername\n*\nPassword",
+        "id": "",
+        "classes": "categories",
+        "other": {}
+      },
+      {
+        "tag": "div",
+        "index": 0,
+        "innerText": "*\nUsername\n*\nPassword",
+        "id": "",
+        "classes": "category",
+        "other": {}
+      },
+      {
+        "tag": "div",
+        "index": 1,
+        "innerText": "*\nPassword",
+        "id": "",
+        "classes": "field Password",
+        "other": {}
+      },
+      {
+        "tag": "input",
+        "index": 1,
+        "innerText": "",
+        "id": "LoginPanel0_Password",
+        "classes": "editor s-Serenity-PasswordEditor s-PasswordEditor required",
+        "other": {
+          "maxlength": "50",
+          "name": "Password",
+          "placeholder": "serenity",
+          "type": "password"
+        }
+      }
+    ]
+  ]
+}

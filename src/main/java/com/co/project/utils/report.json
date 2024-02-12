@@ -1,0 +1,32 @@
+{
+  "records": [
+    {
+      "className": "net.serenitybdd.core.pages.WebElementResolverByLocator",
+      "methodName": "resolveForDriver",
+      "failedLocator": {
+        "value": "LoginPanel0_Password",
+        "type": "By.id"
+      },
+      "healedLocator": {
+        "value": "input.editor.s-Serenity-PasswordEditor.s-PasswordEditor.required",
+        "type": "By.cssSelector"
+      },
+      "screenShotPath": "/screenshots/0ebcfcd2ce8bcdd3a82a5c5255255e69/screenshot_07-Sep-2023-05-11-02.614.png",
+      "healingResultId": 341
+    },
+    {
+      "className": "net.serenitybdd.core.pages.WebElementResolverByLocator",
+      "methodName": "resolveForDriver",
+      "failedLocator": {
+        "value": "LoginPanel0_LoginButton",
+        "type": "By.id"
+      },
+      "healedLocator": {
+        "value": "button.my-3.w-100.btn-primary.btn",
+        "type": "By.cssSelector"
+      },
+      "screenShotPath": "/screenshots/0ebcfcd2ce8bcdd3a82a5c5255255e69/screenshot_07-Sep-2023-05-11-05.294.png",
+      "healingResultId": 343
+    }
+  ]
+}
